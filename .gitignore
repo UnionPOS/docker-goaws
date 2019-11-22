@@ -1,0 +1,10 @@
+# ignore build harness
+*build-harness
+
+
+vendor/
+
+goaws
+goaws_linux_amd64
+
+setenv.sh
